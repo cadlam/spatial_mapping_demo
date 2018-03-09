@@ -1,0 +1,21 @@
+---
+title: "Demo"
+author: "Chris Adlam"
+date: "3/6/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(mapview)
+library(sf)
+library(leaflet)
+library(maps)
+library(maptools)
+library(rgdal)
+
+```
+
