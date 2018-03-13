@@ -16,6 +16,7 @@ library(leaflet)
 library(maps)
 library(maptools)
 library(rgdal)
+devtools::install_github("tidyverse/ggplot2")
 
 ```
 
